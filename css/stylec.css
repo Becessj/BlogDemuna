@@ -1,0 +1,60 @@
+.content-c{
+	text-align: justify;
+}
+
+
+img.mini{
+  width: 100%;
+  height: 12em;
+	align: middle;
+
+  /*align-content: flex-start;*/
+}
+.card-box-ico{
+  align-content: center;
+  width: auto;
+}
+
+h6.subti{
+  text-align: center;
+  font-size: 15px;
+}
+img.logos{
+  padding-right: 2em
+}
+section.section-footer{
+  background: darkgray !important;
+}
+footer{
+  background: darkgray !important;
+}
+div.row_mio{
+	display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -20px;
+  margin-left: -15px;
+}
+.justi{
+	text-align:justify;
+}
+.intro-single{
+	padding: 5rem !important;
+}
+
+.citas{
+	text-align: center;
+	font-style: oblique;
+	font-family: Lavanderia-regular;
+	/*display:inline-block;*/
+	vertical-align:middle;
+	line-height:normal;
+}
+.section-t8 {
+    padding-top: 4rem !important;
+}
+.title-wrap {
+    padding-bottom: 2rem !important;
+		
+}
